@@ -1,4 +1,4 @@
-sudo apt upgrade
+sudo apt upgrade -y
 
 sudo rosdep init
 rosdep update
