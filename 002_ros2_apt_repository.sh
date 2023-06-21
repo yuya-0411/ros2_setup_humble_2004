@@ -1,5 +1,5 @@
 # First ensure that the Ubuntu Universe repository is enabled.
-sudo apt install software-properties-common
+sudo apt install software-properties-common -y
 sudo add-apt-repository universe
 
 # Now add the ROS 2 GPG key with apt.
